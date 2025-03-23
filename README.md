@@ -1,7 +1,3 @@
-
-![Logo](https://github.com/user-attachments/assets/b6a7a068-c6be-4760-ac28-969adc7b6371)
-
-
 # Chirp project
 
 This is a project that follows our course in Analysis, Design and Software Architecture at IT university in Copenhagen.
