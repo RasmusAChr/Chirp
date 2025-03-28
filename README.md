@@ -1,6 +1,7 @@
 # Chirp
 ## Preface
 This project is part of our course on Analysis, Design, and Software Architecture at the IT University of Copenhagen.
+
 This project was originally developed in collaboration with four other contributors as part of our course. After the course ended, I made additional modifications independently. These changes were made solely by me and do not necessarily reflect the views or approval of the other contributors.
 
 ## About the project
